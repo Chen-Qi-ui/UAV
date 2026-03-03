@@ -1,0 +1,12 @@
+.\build\list.o: freertos\list.c
+.\build\list.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\list.o: .\freertos\include\FreeRTOS.h
+.\build\list.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\build\list.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\list.o: .\freertos\include\FreeRTOSConfig.h
+.\build\list.o: .\freertos\include\projdefs.h
+.\build\list.o: .\freertos\include\portable.h
+.\build\list.o: .\freertos\include\deprecated_definitions.h
+.\build\list.o: .\freertos\portable\RVDS\ARM_CM4F\portmacro.h
+.\build\list.o: .\freertos\include\mpu_wrappers.h
+.\build\list.o: .\freertos\include\list.h

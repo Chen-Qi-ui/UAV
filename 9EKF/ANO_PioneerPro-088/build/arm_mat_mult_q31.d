@@ -1,0 +1,9 @@
+.\build\arm_mat_mult_q31.o: Libraries\CMSIS\DSP_Lib\Source\MatrixFunctions\arm_mat_mult_q31.c
+.\build\arm_mat_mult_q31.o: .\Libraries\CMSIS\Include\arm_math.h
+.\build\arm_mat_mult_q31.o: .\Libraries\CMSIS\Include\core_cm4.h
+.\build\arm_mat_mult_q31.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\arm_mat_mult_q31.o: .\Libraries\CMSIS\Include\core_cmInstr.h
+.\build\arm_mat_mult_q31.o: .\Libraries\CMSIS\Include\core_cmFunc.h
+.\build\arm_mat_mult_q31.o: .\Libraries\CMSIS\Include\core_cm4_simd.h
+.\build\arm_mat_mult_q31.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\build\arm_mat_mult_q31.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h

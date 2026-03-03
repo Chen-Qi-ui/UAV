@@ -1,0 +1,9 @@
+.\build\ekf.o: Algorithms\EKF.c
+.\build\ekf.o: .\Libraries\CMSIS\Include\arm_math.h
+.\build\ekf.o: .\Libraries\CMSIS\Include\core_cm4.h
+.\build\ekf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\ekf.o: .\Libraries\CMSIS\Include\core_cmInstr.h
+.\build\ekf.o: .\Libraries\CMSIS\Include\core_cmFunc.h
+.\build\ekf.o: .\Libraries\CMSIS\Include\core_cm4_simd.h
+.\build\ekf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\build\ekf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
