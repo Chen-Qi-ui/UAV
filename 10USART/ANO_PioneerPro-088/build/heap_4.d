@@ -1,0 +1,14 @@
+.\build\heap_4.o: freertos\portable\MemMang\heap_4.c
+.\build\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\build\heap_4.o: .\freertos\include\FreeRTOS.h
+.\build\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\build\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\heap_4.o: .\freertos\include\FreeRTOSConfig.h
+.\build\heap_4.o: .\freertos\include\projdefs.h
+.\build\heap_4.o: .\freertos\include\portable.h
+.\build\heap_4.o: .\freertos\include\deprecated_definitions.h
+.\build\heap_4.o: .\freertos\portable\RVDS\ARM_CM4F\portmacro.h
+.\build\heap_4.o: .\freertos\include\mpu_wrappers.h
+.\build\heap_4.o: .\freertos\include\task.h
+.\build\heap_4.o: .\freertos\include\list.h
